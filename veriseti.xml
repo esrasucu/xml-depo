@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aekler>
   <aek>
-    <baslik>Matematik 101</baslik>
-    <kategori>Matematik</kategori>
-    <aciklama>Temel matematik konularını kapsayan bir ders.</aciklama>
-    <url>https://www.ornek.com/matematik101</url>
+    <baslik>Açık Eğitim Kaynakları</baslik>
+    <anahtar_kelimeler>Anahtar Kelimeler</anahtar_kelimeler>
+    <ozet_bilgi>Özet Bilgi</ozet_bilgi>
+    <olusturan>Oluşturan</olusturan>
+    <lisans>Açık Lisans</Lisans>
+    <dil>TR</dil>
+    <url>Url</url>
   </aek>
-  <aek>
-    <baslik>Fizik 101</baslik>
-    <kategori>Fizik</kategori>
-    <aciklama>Temel fizik konularını kapsayan bir ders.</aciklama>
-    <url>https://www.ornek.com/fizik101</url>
+    <aek>
+    <baslik>Açık Eğitim Kaynakları</baslik>
+    <anahtar_kelimeler>Anahtar Kelimeler</anahtar_kelimeler>
+    <ozet_bilgi>Özet Bilgi</ozet_bilgi>
+    <olusturan>Oluşturan</olusturan>
+    <lisans>Açık Lisans</Lisans>
+    <dil>TR</dil>
+    <url>Url</url>
   </aek>
-  <!-- Diğer AEK verileri buraya eklenir -->
 </aekler>
