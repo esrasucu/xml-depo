@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aekler>
+<?xml version="1.0"?>
+<data>
   <aek>
     <baslik>Açık Eğitim Kaynakları</baslik>
-    <anahtar_kelimeler>Anahtar Kelimeler</anahtar_kelimeler>
-    <ozet_bilgi>Özet Bilgi</ozet_bilgi>
-    <olusturan>Oluşturan</olusturan>
+    <anahtar_kelimeler> Açık, Eğitim, Kaynaklar, Ücretsiz, Lisans</anahtar_kelimeler>
+    <ozet_bilgi>Açık eğitim kaynakları, açık öğrenmeden biraz daha farklıdır. Açık öğrenmede hem içerik hem de eğitim hizmetleri (özel olarak tasarlanmış çevrimiçi materyaller, bütünleşik öğrenci desteği ve değerlendirme gibi) söz konusuyken, açık eğitim kaynakları aslen içeriğin kendisidir.</ozet_bilgi>
+    <olusturan>Esra Sucu</olusturan>
     <lisans>Açık Lisans</Lisans>
     <dil>TR</dil>
-    <url>Url</url>
+    <url>https://creativecommons.org.tr/tag/acik-egitim-kaynaklari/</url>
   </aek>
     <aek>
     <baslik>Açık Eğitim Kaynakları</baslik>
-    <anahtar_kelimeler>Anahtar Kelimeler</anahtar_kelimeler>
-    <ozet_bilgi>Özet Bilgi</ozet_bilgi>
-    <olusturan>Oluşturan</olusturan>
+    <anahtar_kelimeler>Açık, Eğitim, Kaynaklar,Ücretsiz, Lisans</anahtar_kelimeler>
+    <ozet_bilgi>Açık eğitim kaynakları, açık öğrenmeden biraz daha farklıdır. Açık öğrenmede hem içerik hem de eğitim hizmetleri (özel olarak tasarlanmış çevrimiçi materyaller, bütünleşik öğrenci desteği ve değerlendirme gibi) söz konusuyken, açık eğitim kaynakları aslen içeriğin kendisidir.</ozet_bilgi>
+    <olusturan>Esra Sucu</olusturan>
     <lisans>Açık Lisans</Lisans>
     <dil>TR</dil>
-    <url>Url</url>
+    <url>https://creativecommons.org.tr/tag/acik-egitim-kaynaklari/</url>
   </aek>
-</aekler>
+</data>
